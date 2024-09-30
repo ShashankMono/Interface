@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\InterfaceUse.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\InterfaceUse.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\InterfaceUse.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\InterfaceUse.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\bin\Debug\net8.0\InterfaceUse.exe
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\bin\Debug\net8.0\InterfaceUse.deps.json
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\bin\Debug\net8.0\InterfaceUse.runtimeconfig.json
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\bin\Debug\net8.0\InterfaceUse.dll
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\bin\Debug\net8.0\InterfaceUse.pdb
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\InterfaceUse.dll
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\refint\InterfaceUse.dll
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\InterfaceUse.pdb
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\InterfaceUse.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\Interface\InterfaceUse\obj\Debug\net8.0\ref\InterfaceUse.dll
